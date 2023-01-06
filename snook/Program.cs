@@ -54,7 +54,7 @@ namespace snook
                 processKey();
                 move();
                 food();
-                Thread.Sleep(1);
+                Thread.Sleep(250);
             }
         }
 
